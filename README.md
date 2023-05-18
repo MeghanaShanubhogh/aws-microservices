@@ -31,8 +31,11 @@ Wait for provision all microservices into aws cloud. That’s it!
 You can launch microservices as below urls:
 
 Product API -> https://xxx.execute-api.ap-southeast-1.amazonaws.com/prod/product
+
 Basket API -> https://xxx.execute-api.ap-southeast-1.amazonaws.com/prod/basket
+
 Ordering API -> https://xxx.execute-api.ap-southeast-1.amazonaws.com/prod/order
+
 Useful commands
 npm run build compile typescript to js
 npm run watch watch for changes and compile
